@@ -1,0 +1,98 @@
+:root{
+	--f7-theme-color:#5079FE;
+	--f7-navbar-bg-color: #fff; /*navbar*/
+	--f7-navbar-link-color: #5079FE; /*navbar link*/
+	--f7-navbar-text-color:#7C899F;
+	--f7-bars-bg-color:#fff;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #333; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent; 
+	
+}
+
+
+.navbar-inner {
+      background-color: #FFFFFF; /* Fondo azul oscuro */
+      color: #A17639; /* Color de los íconos y título en el navbar */
+    }
+
+.material-icons {
+		color: #000000;
+	}
+.material-symbols-rounded {
+		color: #000000;
+}
+
+.logo-zara {
+	width: 60px;
+}
+
+.card-content {
+	text-align: center;
+	font-size: 30px;
+}
+
+.swiper-slide img {
+	width: 100%;
+}
+
+
+.block-title {
+	color: #000000;
+	font-size: 40px;
+	text-align-last: center;
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
+
+.detalle-producto {
+	color:#0B0B0B;
+	font-size: 14px;
+}
+
+.borde-img {
+	width: 100%;
+}
+
+
+.button {
+	color: #FFFFFF;
+	background-color: #020202;
+	border-radius: 50px;
+	border: 5px #C9C9C9;
+}
+
+/* Social Media & Contact */
+
+  .footer {
+      background-color: #010101;
+      color:#010101;
+      padding: 10px 20px;
+      text-align: start;
+      margin-top: 20px;				
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
